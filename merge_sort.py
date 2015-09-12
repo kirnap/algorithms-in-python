@@ -1,3 +1,4 @@
+# Implementation of merge-sort algorithm is purely for educational purposes.
 
 # This example is an intermediate for python learners and will be really helpful to better understand the programming
 # and algorithm paradigm and highly recommended for python learners.
