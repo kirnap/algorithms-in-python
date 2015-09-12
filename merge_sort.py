@@ -40,7 +40,7 @@ def merge_sort(iterable):
 	Note that there is a python slice expression which partitions a list into two lists
 
 	:param iterable:
-	:return: Sorted version of array
+	:return: Sorted version of list
 	"""
 	if len(iterable) == 1:
 		return iterable
