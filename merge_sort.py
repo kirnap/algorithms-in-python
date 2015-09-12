@@ -47,9 +47,7 @@ def merge_sort(iterable):
 	else:
 		left_part = iterable[:(len(iterable) / 2)]
 		right_part = iterable[len(iterable) / 2:]
-		left = merge_sort(left_part)
-		right = merge_sort(right_part)
-		result = merge(right, left)
+		result = merge(merge_sort(right_part), merge_sort(left_part))
 	return result
 
 
