@@ -8,7 +8,7 @@
 def merge(first, second):
 	"""
 	This function returns the merged version of first and second list object.
-	Input lists has to be sorted in itself for example list1 = [3,5,64,7] where the integers listed in increasing order
+	Input lists has to be sorted in itself for example list1 = [3,5,7,64] where the integers listed in increasing order
 	:param first:
 	:param second:
 	:return: ret
@@ -52,4 +52,4 @@ def merge_sort(iterable):
 
 
 if __name__ == '__main__':
-	print merge_sort([1, 8, 7, 76, 9, 5, 2, 4])
+	print merge_sort([1,14,7,5,11,3,19,16])
