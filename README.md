@@ -6,4 +6,4 @@ Python implementations of common algorithms arragned for students for whom inter
 ## Problems are organized as follows:
 - **[Merge Sort Algorithm](https://en.wikipedia.org/wiki/Merge_sort)** is implemented
 - The [problem](https://class.coursera.org/algo-004/lecture/15) given during the lectures is implemented and do not hasitate to contact me to compare your results.
-- **Simulated Annealing Algorithm
+-Simulated Annealing Algorithm
