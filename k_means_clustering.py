@@ -123,25 +123,6 @@ if __name__  == '__main__':
     print(new_centroid_list)
 
 
-# class Point(object):
-#     """
-#     Point represents a single data point which is nx1 matrix and implemented from numpy
-#
-#     """
-#
-#
-#
-#     def __init__(self, number_of_futures):
-#         """
-#         Create an array for the purpose of n dimensional vectors
-#
-#         """
-#
-#         helper_list = random.uniform(0,100)
-#         self =
-
-
-
-
-
+# TODO implement it in more efficient way
+# TODO Implement object oriented version of it
 
