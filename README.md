@@ -8,3 +8,4 @@ Python implementations of common algorithms arragned for students for whom inter
 - The [problem](https://class.coursera.org/algo-004/lecture/15) given during the lectures is implemented and do not hasitate to contact me to compare your results.
 - [Simulated Annealing Algorithm](https://en.wikipedia.org/wiki/Simulated_annealing)
 - [K means clustering algorithm](https://en.wikipedia.org/wiki/K-means_clustering)
+- For Neural Networks Implementation, please refer [my following repo](https://github.com/kirnap/Neural-Networks-Playground)
